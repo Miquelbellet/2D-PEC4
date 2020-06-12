@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: f93e54e75f1db8e4da9e624d4f711b86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1399630359008266088
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_0
+  - first:
+      213: -5216707917760011120
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_1
+  - first:
+      213: -3063748843818956889
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_2
+  - first:
+      213: 2148042972209676284
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_3
+  - first:
+      213: -379792749449858978
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_4
+  - first:
+      213: 2880589991491409316
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_5
+  - first:
+      213: 3885386854359736563
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_6
+  - first:
+      213: -2858676757499108697
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_7
+  - first:
+      213: 4111770654477404500
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_8
+  - first:
+      213: 6081108424303107639
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_9
+  - first:
+      213: -6024442978852013091
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_10
+  - first:
+      213: 5488395057196085867
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_11
+  - first:
+      213: 4371994350463633919
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_12
+  - first:
+      213: 2893679022910791416
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_13
+  - first:
+      213: -6569473217941865005
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_14
+  - first:
+      213: 3293432660401621416
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_15
+  - first:
+      213: 2030390660682449213
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_16
+  - first:
+      213: 9050733485311261068
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_17
+  - first:
+      213: 2054021612498750127
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_18
+  - first:
+      213: -7315137791880162630
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_19
+  - first:
+      213: -8632060468175797396
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_20
+  - first:
+      213: 6938584486329680693
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_21
+  - first:
+      213: -7050257752555958757
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_22
+  - first:
+      213: -4479857418164728481
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_23
+  - first:
+      213: 596637133212051329
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_24
+  - first:
+      213: -7723090244806021074
+    second: PC Computer - Shovel Knight Treasure Trove - Goldarmor_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 553
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674a8d556c7c6310800000000000000
+      internalID: 1399630359008266088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 513
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09462f0c9c78a97b0800000000000000
+      internalID: -5216707917760011120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 513
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74823b8a06b75d0800000000000000
+      internalID: -3063748843818956889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 513
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff4d0d3b16fcd10800000000000000
+      internalID: 2148042972209676284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 513
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b5c0b184babaf0800000000000000
+      internalID: -379792749449858978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51462d559e9f720800000000000000
+      internalID: 2880589991491409316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 439
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a51522caabe530800000000000000
+      internalID: 3885386854359736563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a99d82a0f358d0800000000000000
+      internalID: -2858676757499108697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459400a00a1ff0930800000000000000
+      internalID: 4111770654477404500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed83f84ef646450800000000000000
+      internalID: 6081108424303107639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbfde39701e46ca0800000000000000
+      internalID: -6024442978852013091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62be2bc932ba2c40800000000000000
+      internalID: 5488395057196085867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9466ba2b17cac30800000000000000
+      internalID: 4371994350463633919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fed89e6db9682820800000000000000
+      internalID: 2893679022910791416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf1233aea84d4a0800000000000000
+      internalID: -6569473217941865005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a988e62e8f94bd20800000000000000
+      internalID: 3293432660401621416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d318f356c856d2c10800000000000000
+      internalID: 2030390660682449213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89f5bce62aaa9d70800000000000000
+      internalID: 9050733485311261068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa86fd16c9518c10800000000000000
+      internalID: 2054021612498750127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab292ff7fe86b7a90800000000000000
+      internalID: -7315137791880162630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6380b22db2c43880800000000000000
+      internalID: -8632060468175797396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53387bff3ddca4060800000000000000
+      internalID: 6938584486329680693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e45fb8de3782e90800000000000000
+      internalID: -7050257752555958757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d84e9d96954d1c0800000000000000
+      internalID: -4479857418164728481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 36
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18769e0cf4ea74800800000000000000
+      internalID: 596637133212051329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Goldarmor_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207d0e475212d490800000000000000
+      internalID: -7723090244806021074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

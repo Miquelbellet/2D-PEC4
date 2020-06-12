@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: df5b32f0ab790364e8d680ffa549b6d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4547029786177104271
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_0
+  - first:
+      213: -3110728001840662383
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_1
+  - first:
+      213: -5954412099194069592
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_2
+  - first:
+      213: 6567235281535029430
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_3
+  - first:
+      213: -1128965637617577891
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_4
+  - first:
+      213: 9059539298672963931
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_5
+  - first:
+      213: 1552612041901465088
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_6
+  - first:
+      213: 440716263166118006
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_7
+  - first:
+      213: 4584463818633435929
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_8
+  - first:
+      213: -2281594472826996176
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_9
+  - first:
+      213: -7247920011945249768
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_10
+  - first:
+      213: -2082681167776204685
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_11
+  - first:
+      213: 2252231728960900145
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_12
+  - first:
+      213: 321386444192260736
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_13
+  - first:
+      213: 2316219274344643018
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_14
+  - first:
+      213: 5114623364210197755
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_15
+  - first:
+      213: -7796210712285346962
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_16
+  - first:
+      213: 3860702875180837328
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_17
+  - first:
+      213: -6214509482424633740
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_18
+  - first:
+      213: -4789600751667193861
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_19
+  - first:
+      213: -3985063122015112309
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_20
+  - first:
+      213: -5876246635656807226
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_21
+  - first:
+      213: 8121839952399834983
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_22
+  - first:
+      213: -2124155163003532117
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_23
+  - first:
+      213: 4741836885716874166
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_24
+  - first:
+      213: -6846705351414942632
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_25
+  - first:
+      213: 1232033824116208616
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_26
+  - first:
+      213: -8002365343156424958
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_27
+  - first:
+      213: 2168089784623750446
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_28
+  - first:
+      213: 8298790133717558421
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_29
+  - first:
+      213: 5723527111004028339
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_30
+  - first:
+      213: 7715645115144686899
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_31
+  - first:
+      213: 5521047093078697191
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_32
+  - first:
+      213: 4951562200773641913
+    second: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89e434df7b4a1f30800000000000000
+      internalID: 4547029786177104271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983d691d5974d4d0800000000000000
+      internalID: -3110728001840662383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 318
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addf3d5ebdad5da0800000000000000
+      internalID: -5954412099194069592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 318
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0de40a1b1832b50800000000000000
+      internalID: 6567235281535029430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 318
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509e2eebbb1550f0800000000000000
+      internalID: -1128965637617577891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f71e1ef2f9bd70800000000000000
+      internalID: 9059539298672963931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 298
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed78f0d6cfb8510800000000000000
+      internalID: 1552612041901465088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 269
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67801c83b1dbd1600800000000000000
+      internalID: 440716263166118006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 269
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd643bd894f9f30800000000000000
+      internalID: 4584463818633435929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 269
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03af6a55ae52650e0800000000000000
+      internalID: -2281594472826996176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 269
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814fe8776273a6b90800000000000000
+      internalID: -7247920011945249768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378bd4e2384d813e0800000000000000
+      internalID: -2082681167776204685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c049c13d8814f10800000000000000
+      internalID: 2252231728960900145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 183
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a4b9a44bc57400800000000000000
+      internalID: 321386444192260736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 183
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b93d782dd42020800000000000000
+      internalID: 2316219274344643018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 183
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf489afe9dacaf640800000000000000
+      internalID: 5114623364210197755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63032cc9ab4ec390800000000000000
+      internalID: -7796210712285346962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ab726fc8f39530800000000000000
+      internalID: 3860702875180837328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47678c63d80a1c9a0800000000000000
+      internalID: -6214509482424633740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7dee42e7be78db0800000000000000
+      internalID: -4789600751667193861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b7cc443632b8c0800000000000000
+      internalID: -3985063122015112309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc771d81d0637ea0800000000000000
+      internalID: -5876246635656807226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1e55c76296b070800000000000000
+      internalID: 8121839952399834983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baccc5d222c7582e0800000000000000
+      internalID: -2124155163003532117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 97
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3bff336836ec140800000000000000
+      internalID: 4741836885716874166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854752f12cd9bf0a0800000000000000
+      internalID: -6846705351414942632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e376b54c30191110800000000000000
+      internalID: 1232033824116208616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 55
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa3466e13e1f090800000000000000
+      internalID: -8002365343156424958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd6ad0c2a961e10800000000000000
+      internalID: 2168089784623750446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59460c168a93b2370800000000000000
+      internalID: 8298790133717558421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd76b9359d0e6f40800000000000000
+      internalID: 5723527111004028339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4d2d5a5a731b60800000000000000
+      internalID: 7715645115144686899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a8235413be9c40800000000000000
+      internalID: 5521047093078697191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Propeller Rat_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b64d5c469b77b440800000000000000
+      internalID: 4951562200773641913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

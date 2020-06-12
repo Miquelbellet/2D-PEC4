@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 12a2a0b76198a9649ad9e0608043e5ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7811805342303135766
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_0
+  - first:
+      213: -4524052286181945822
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_1
+  - first:
+      213: 6140343644699627681
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_2
+  - first:
+      213: 3296233550520524548
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_3
+  - first:
+      213: -158960091237070079
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_4
+  - first:
+      213: -6072823317089845672
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_5
+  - first:
+      213: -6627663385572719926
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_6
+  - first:
+      213: 8119059751310091717
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_7
+  - first:
+      213: -4761933395314983977
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_8
+  - first:
+      213: 7248897906892306530
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_9
+  - first:
+      213: 3733346122290844751
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_10
+  - first:
+      213: -8261753287927651341
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_11
+  - first:
+      213: 3185589293793820662
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_12
+  - first:
+      213: -3121548343847005588
+    second: PC Computer - Shovel Knight Treasure Trove - Big Bohto_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182a72f19b196c60800000000000000
+      internalID: 7811805342303135766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 201
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec4d84a665731c0800000000000000
+      internalID: -4524052286181945822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 201
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0162d0302e63550800000000000000
+      internalID: 6140343644699627681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 201
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f108333f29ebd20800000000000000
+      internalID: 3296233550520524548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 201
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc954a3a24bcdf0800000000000000
+      internalID: -158960091237070079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 201
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e76294e5ff8bba0800000000000000
+      internalID: -6072823317089845672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac24314044fc504a0800000000000000
+      internalID: -6627663385572719926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56203c3d1bca070800000000000000
+      internalID: 8119059751310091717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 68
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3e288ec63aedb0800000000000000
+      internalID: -4761933395314983977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 68
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26873617d32499460800000000000000
+      internalID: 7248897906892306530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 68
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445ab2a4828fc330800000000000000
+      internalID: 3733346122290844751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 68
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f32823482b585d80800000000000000
+      internalID: -8261753287927651341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 68
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3ed0b59c753c20800000000000000
+      internalID: 3185589293793820662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Big Bohto_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625ac7e1580ea4d0800000000000000
+      internalID: -3121548343847005588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

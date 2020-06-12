@@ -1,0 +1,2179 @@
+fileFormatVersion: 2
+guid: 51ac9cf10b5b20642b4cff203a28aed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2612224953120247057
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_0
+  - first:
+      213: -4893787308051984268
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_1
+  - first:
+      213: -4077426470444641352
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_2
+  - first:
+      213: -5748882241509747770
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_3
+  - first:
+      213: 4698875313640078884
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_4
+  - first:
+      213: 8376189359210650782
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_5
+  - first:
+      213: -6264805392269431523
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_6
+  - first:
+      213: -2074532307146565353
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_7
+  - first:
+      213: -5559653312609604561
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_8
+  - first:
+      213: 8206277497047139268
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_9
+  - first:
+      213: -5398664889954231222
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_10
+  - first:
+      213: 4431211284109996364
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_11
+  - first:
+      213: -4295467321313083225
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_12
+  - first:
+      213: 6178860711573096328
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_13
+  - first:
+      213: -7993426220591020042
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_14
+  - first:
+      213: -2615075526380496345
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_15
+  - first:
+      213: 7275716634853226
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_16
+  - first:
+      213: 1184510273744297584
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_17
+  - first:
+      213: -4157105545774065007
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_18
+  - first:
+      213: 6181858078591329108
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_19
+  - first:
+      213: 5053485899388735034
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_20
+  - first:
+      213: 5576810948188596857
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_21
+  - first:
+      213: -4602910804055109379
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_22
+  - first:
+      213: 4638533388553098244
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_23
+  - first:
+      213: 1392026998680581106
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_24
+  - first:
+      213: 7857345657785958989
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_25
+  - first:
+      213: -2638055888690149462
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_26
+  - first:
+      213: 2660943712710684249
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_27
+  - first:
+      213: -1299369479273926990
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_28
+  - first:
+      213: -6754622508586817970
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_29
+  - first:
+      213: -7261229734590521737
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_30
+  - first:
+      213: 7967476523522948011
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_31
+  - first:
+      213: -91366302534029893
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_32
+  - first:
+      213: 189168058196869164
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_33
+  - first:
+      213: 8208254458459969812
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_34
+  - first:
+      213: 983835555387376611
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_35
+  - first:
+      213: 2476233297399897058
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_36
+  - first:
+      213: -4575060898316307787
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_37
+  - first:
+      213: -6649020134661710460
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_38
+  - first:
+      213: -5871215274990232315
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_39
+  - first:
+      213: -809097650280083105
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_40
+  - first:
+      213: 5556008693593721027
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_41
+  - first:
+      213: -5261374132653679108
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_42
+  - first:
+      213: 8723962731362961827
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_43
+  - first:
+      213: -2510487377076602742
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_44
+  - first:
+      213: 9116119603428380103
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_45
+  - first:
+      213: 3976396954599433883
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_46
+  - first:
+      213: 7744616293659381021
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_47
+  - first:
+      213: 7943638127730521476
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_48
+  - first:
+      213: 5911173373775723921
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_49
+  - first:
+      213: 7002502423327218630
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_50
+  - first:
+      213: 314625692967716337
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_51
+  - first:
+      213: -8350667559239200866
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_52
+  - first:
+      213: 4776768217685214473
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_53
+  - first:
+      213: -7359816786747684743
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_54
+  - first:
+      213: 4006833501141885745
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_55
+  - first:
+      213: -6674498956558141889
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_56
+  - first:
+      213: -1673688001847485498
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_57
+  - first:
+      213: 3071958919272887967
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_58
+  - first:
+      213: 712375730738144156
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_59
+  - first:
+      213: 4844002469649072248
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_60
+  - first:
+      213: -5839196266690656619
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_61
+  - first:
+      213: -4123221671337419263
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_62
+  - first:
+      213: 2644737671583753951
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_63
+  - first:
+      213: -8805883238037849582
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_64
+  - first:
+      213: 6545519892755184533
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_65
+  - first:
+      213: 5056575616389796308
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_66
+  - first:
+      213: 9149180678639500591
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_67
+  - first:
+      213: 4578720533036330960
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_68
+  - first:
+      213: 8258209955568495842
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_69
+  - first:
+      213: -3772143480669741907
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_70
+  - first:
+      213: -8290657476035242086
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_71
+  - first:
+      213: -6489434629118258283
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_72
+  - first:
+      213: 5239447879395307494
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_73
+  - first:
+      213: -2847542814275365528
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_74
+  - first:
+      213: 7898368766602293739
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_75
+  - first:
+      213: 6702311915725469052
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_76
+  - first:
+      213: -5814994446980405423
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_77
+  - first:
+      213: -3439978404625713143
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_78
+  - first:
+      213: 7718354505123727007
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_79
+  - first:
+      213: -4370939100630238517
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_80
+  - first:
+      213: -4695101938575161066
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_81
+  - first:
+      213: -5711332974204667062
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_82
+  - first:
+      213: -757334235415758306
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_83
+  - first:
+      213: -394248736639193876
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_84
+  - first:
+      213: -12821953450216879
+    second: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3480
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23bdbce338fbbd0800000000000000
+      internalID: -2612224953120247057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3446
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701f392f56c51cb0800000000000000
+      internalID: -4893787308051984268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3446
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b35f5f6a321a67c0800000000000000
+      internalID: -4077426470444641352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3446
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3924b6f0ed730b0800000000000000
+      internalID: -5748882241509747770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3412
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7e59b332c53140800000000000000
+      internalID: 4698875313640078884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3412
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c582fd7d33e3470800000000000000
+      internalID: 8376189359210650782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d24d620b0fe09a0800000000000000
+      internalID: -6264805392269431523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191575abd7c533e0800000000000000
+      internalID: -2074532307146565353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ca49bb4c428d2b0800000000000000
+      internalID: -5559653312609604561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c6c3a7ed82e170800000000000000
+      internalID: 8206277497047139268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c97ecc2e61415b0800000000000000
+      internalID: -5398664889954231222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4134127f23de7d30800000000000000
+      internalID: 4431211284109996364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3341
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c5d8ca3f6364c0800000000000000
+      internalID: -4295467321313083225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3305
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878ee58419bfb550800000000000000
+      internalID: 6178860711573096328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3269
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7016f0435a11190800000000000000
+      internalID: -7993426220591020042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad54df9a265bbd0800000000000000
+      internalID: -2615075526380496345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb189c939d91000800000000000000
+      internalID: 7275716634853226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e545371d9307010800000000000000
+      internalID: 1184510273744297584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a945a088efe46c0800000000000000
+      internalID: -4157105545774065007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a05a6b2f5ac550800000000000000
+      internalID: 6181858078591329108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ec286a6a6912640800000000000000
+      internalID: 5053485899388735034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3221
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6a4a9200d46d40800000000000000
+      internalID: 5576810948188596857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0dc7fc20d2f10c0800000000000000
+      internalID: -4602910804055109379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041f777a816f5040800000000000000
+      internalID: 4638533388553098244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fb161e29715310800000000000000
+      internalID: 1392026998680581106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424ac9ee36ea0d60800000000000000
+      internalID: 7857345657785958989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3136
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70ff0752eb36bd0800000000000000
+      internalID: -2638055888690149462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3136
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eed6b55329de420800000000000000
+      internalID: 2660943712710684249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3136
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea4ebc756b7fde0800000000000000
+      internalID: -1299369479273926990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3136
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4623dfad92c242a0800000000000000
+      internalID: -6754622508586817970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3083
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5a3d270eea3b90800000000000000
+      internalID: -7261229734590521737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3083
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab79d44fa9229e60800000000000000
+      internalID: 7967476523522948011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3083
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbda409f4d66bbef0800000000000000
+      internalID: -91366302534029893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3083
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20ccafb85f00a200800000000000000
+      internalID: 189168058196869164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3041
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d586d0f399e170800000000000000
+      internalID: 8208254458459969812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3041
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3834c993947ad00800000000000000
+      internalID: 983835555387376611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3041
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd38870195d5220800000000000000
+      internalID: 2476233297399897058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3041
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2b31a4a5e1280c0800000000000000
+      internalID: -4575060898316307787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3041
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d91116a6fe9b3a0800000000000000
+      internalID: -6649020134661710460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3007
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1c5e70d0458ea0800000000000000
+      internalID: -5871215274990232315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3007
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51d37e49f185c4f0800000000000000
+      internalID: -809097650280083105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2979
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c2a64878ea1d40800000000000000
+      internalID: 5556008693593721027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2941
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9fb03a18dbf6b0800000000000000
+      internalID: -5261374132653679108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2907
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c2a4f1edb11970800000000000000
+      internalID: 8723962731362961827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2907
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883f3c1805f82dd0800000000000000
+      internalID: -2510487377076602742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2907
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdc254ea76f28e70800000000000000
+      internalID: 9116119603428380103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2907
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9628dc56fffe2730800000000000000
+      internalID: 3976396954599433883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2870
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d05418c776a7b60800000000000000
+      internalID: 7744616293659381021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2870
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48570ab3ac87d3e60800000000000000
+      internalID: 7943638127730521476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2870
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d36ad5dd4b80250800000000000000
+      internalID: 5911173373775723921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2870
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1b396ad2ed2160800000000000000
+      internalID: 7002502423327218630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2836
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54d8a9666cd5400800000000000000
+      internalID: 314625692967716337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2836
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4b2e39187c1c80800000000000000
+      internalID: -8350667559239200866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2800
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c085b26d7a4240800000000000000
+      internalID: 4776768217685214473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2800
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97882fd50adacd990800000000000000
+      internalID: -7359816786747684743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2800
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13362b517d12b9730800000000000000
+      internalID: 4006833501141885745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2800
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36f2a0ef8a6f53a0800000000000000
+      internalID: -6674498956558141889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2764
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1c0141add5c8e0800000000000000
+      internalID: -1673688001847485498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2729
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f967ad37c5ac1aa20800000000000000
+      internalID: 3071958919272887967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2729
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93a149e3fdd2e900800000000000000
+      internalID: 712375730738144156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2690
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8704c8ed49a593340800000000000000
+      internalID: 4844002469649072248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2690
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cd1ecee107fea0800000000000000
+      internalID: -5839196266690656619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2690
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9db55cbf57c6c0800000000000000
+      internalID: -4123221671337419263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2690
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e7de56eef3b420800000000000000
+      internalID: 2644737671583753951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2649
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aff2fb9d73bc580800000000000000
+      internalID: -8805883238037849582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2613
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfceda9ab56da50800000000000000
+      internalID: 6545519892755184533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2613
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d0d27bb09c2640800000000000000
+      internalID: 5056575616389796308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2617
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dbc205a5b68fe70800000000000000
+      internalID: 9149180678639500591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2584
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfea61d012ea8f30800000000000000
+      internalID: 4578720533036330960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2584
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec2142633e0b9270800000000000000
+      internalID: 8258209955568495842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2531
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacdfd07d77a6abc0800000000000000
+      internalID: -3772143480669741907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2478
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a979b7a83faa1fc80800000000000000
+      internalID: -8290657476035242086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2478
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593994a5695e0f5a0800000000000000
+      internalID: -6489434629118258283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2443
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe786261246b840800000000000000
+      internalID: 5239447879395307494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2443
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8659668b5ee7b78d0800000000000000
+      internalID: -2847542814275365528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1be5ebb84ac9d60800000000000000
+      internalID: 7898368766602293739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753fae4d25630d50800000000000000
+      internalID: 6702311915725469052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572dd01c5dfc4fa0800000000000000
+      internalID: -5814994446980405423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_78
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f445edddb240d0800000000000000
+      internalID: -3439978404625713143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_79
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f968f60678a1d1b60800000000000000
+      internalID: 7718354505123727007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_80
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcab114db0e4753c0800000000000000
+      internalID: -4370939100630238517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619cafe99a5a7deb0800000000000000
+      internalID: -4695101938575161066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_82
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3e8e7be44db0b0800000000000000
+      internalID: -5711332974204667062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_83
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3dc186886d75f0800000000000000
+      internalID: -757334235415758306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_84
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1780
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6973ecd8578af0800000000000000
+      internalID: -394248736639193876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Shovel Knight22_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2554
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152f543508272dff0800000000000000
+      internalID: -12821953450216879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

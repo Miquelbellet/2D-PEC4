@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 760dbaf04d738bd438cbbd34d4c8f058
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3837557049446023122
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_0
+  - first:
+      213: 1428357522709761313
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_1
+  - first:
+      213: 3711350597102263153
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_2
+  - first:
+      213: 3296892976166039122
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_3
+  - first:
+      213: -3417016262302206116
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_4
+  - first:
+      213: 4353951870576776879
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_5
+  - first:
+      213: -7878274110371231703
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_6
+  - first:
+      213: -263831718892477203
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_7
+  - first:
+      213: -5252886971110272523
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_8
+  - first:
+      213: 552263303451058537
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_9
+  - first:
+      213: 8242384583236823327
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_10
+  - first:
+      213: -3707660920494598320
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_11
+  - first:
+      213: 6310884301612557990
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_12
+  - first:
+      213: 7288604441297015418
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_13
+  - first:
+      213: 6903397505634177512
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_14
+  - first:
+      213: 3783135812688075396
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_15
+  - first:
+      213: 7208932365660876414
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_16
+  - first:
+      213: 5885774830273483905
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_17
+  - first:
+      213: 1380383632658944257
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_18
+  - first:
+      213: 7637181751123448017
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_19
+  - first:
+      213: 169803317224372279
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_20
+  - first:
+      213: -6274661882769277943
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_21
+  - first:
+      213: -2958179319584374115
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_22
+  - first:
+      213: 5866423019439167355
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_23
+  - first:
+      213: -4841594971154385379
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_24
+  - first:
+      213: 4918371649808496713
+    second: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20497e12324ebac0800000000000000
+      internalID: -3837557049446023122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 418
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4f51699b82d310800000000000000
+      internalID: 1428357522709761313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 418
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd63954bd518330800000000000000
+      internalID: 3711350597102263153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 418
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6bd2b1bae0cd20800000000000000
+      internalID: 3296892976166039122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 418
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577eb540d15490d0800000000000000
+      internalID: -3417016262302206116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa650e678285c6c30800000000000000
+      internalID: 4353951870576776879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 374
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288a20007fbaa290800000000000000
+      internalID: -7878274110371231703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 327
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4eee2137ea65cf0800000000000000
+      internalID: -263831718892477203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 281
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d1b9712ff917b0800000000000000
+      internalID: -5252886971110272523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 237
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612fa86c880aa700800000000000000
+      internalID: 552263303451058537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 237
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19acf1cb15d26270800000000000000
+      internalID: 8242384583236823327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057525e690ebb8cc0800000000000000
+      internalID: -3707660920494598320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a438f5d3c49750800000000000000
+      internalID: 6310884301612557990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d7d76f13562560800000000000000
+      internalID: 7288604441297015418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e194a2a47bcdcf50800000000000000
+      internalID: 6903397505634177512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad45c4af5608430800000000000000
+      internalID: 3783135812688075396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6801cac54b0460800000000000000
+      internalID: 7208932365660876414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 143
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d26226097ea150800000000000000
+      internalID: 5885774830273483905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101566ea99b182310800000000000000
+      internalID: 1380383632658944257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01fc0d658bcf960800000000000000
+      internalID: 7637181751123448017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73877d4a7334b5200800000000000000
+      internalID: 169803317224372279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7adf134cebe8a0800000000000000
+      internalID: -6274661882769277943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92444af49f62f6d0800000000000000
+      internalID: -2958179319584374115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7798df87a8b96150800000000000000
+      internalID: 5866423019439167355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16760e86033fccb0800000000000000
+      internalID: -4841594971154385379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Boneclang Honcho_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ff24f4f0914440800000000000000
+      internalID: 4918371649808496713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 6f949780a523ad84ab50615cd2b265a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2930048066181056788
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_0
+  - first:
+      213: -7664579390902698398
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_1
+  - first:
+      213: -8784378563468926936
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_2
+  - first:
+      213: 1299812179628893296
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_3
+  - first:
+      213: 644670510224069787
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_4
+  - first:
+      213: -2470531978925820025
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_5
+  - first:
+      213: -6395474787274240738
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_6
+  - first:
+      213: -9165301187498283157
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_7
+  - first:
+      213: 7187585224050139391
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_8
+  - first:
+      213: 6592132894998634760
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_9
+  - first:
+      213: 8522204647991830645
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_10
+  - first:
+      213: 7606396205849756807
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_11
+  - first:
+      213: 1676847544163299981
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_12
+  - first:
+      213: 2802628344197526582
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_13
+  - first:
+      213: 573635679585190368
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_14
+  - first:
+      213: 8710820880679117099
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_15
+  - first:
+      213: -7701965296631004671
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_16
+  - first:
+      213: 5338768806792525513
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_17
+  - first:
+      213: 6565868767186231389
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_18
+  - first:
+      213: -850787021289130381
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_19
+  - first:
+      213: 7030831877514319706
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_20
+  - first:
+      213: -7746941714312438756
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_21
+  - first:
+      213: 8239130667847607739
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_22
+  - first:
+      213: -2895621297972578274
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_23
+  - first:
+      213: -4935029215147988788
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_24
+  - first:
+      213: -8121288344637887409
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_25
+  - first:
+      213: 7638245844123101429
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_26
+  - first:
+      213: 563262111552105952
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_27
+  - first:
+      213: 844967806283392564
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_28
+  - first:
+      213: 7054089555099673514
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_29
+  - first:
+      213: 1231116163108768580
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_30
+  - first:
+      213: 7200267443120732077
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_31
+  - first:
+      213: -3151088758222135766
+    second: PC Computer - Shovel Knight Treasure Trove - Dozedrake_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ca8f213f99a820800000000000000
+      internalID: 2930048066181056788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef67417a1f1a590800000000000000
+      internalID: -7664579390902698398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e0e7fc3e971680800000000000000
+      internalID: -8784378563468926936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074a1896a4cd90210800000000000000
+      internalID: 1299812179628893296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945317d96452f800800000000000000
+      internalID: 644670510224069787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_5
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78732ed2148e6bdd0800000000000000
+      internalID: -2470531978925820025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d4d8ec095be37a0800000000000000
+      internalID: -6395474787274240738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_7
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fe2bb312f4ec080800000000000000
+      internalID: -9165301187498283157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_8
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ea580eae6fb360800000000000000
+      internalID: 7187585224050139391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_9
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801af8ef0f5fb7b50800000000000000
+      internalID: 6592132894998634760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_10
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786cba89f3f44670800000000000000
+      internalID: 8522204647991830645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_11
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 439
+        width: 181
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cd8e7c095f8960800000000000000
+      internalID: 7606396205849756807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82f65405fb554710800000000000000
+      internalID: 1676847544163299981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 348
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b55d41afe4e620800000000000000
+      internalID: 2802628344197526582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 348
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14a208c96f5f700800000000000000
+      internalID: 573635679585190368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 348
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b212fe6607d03e870800000000000000
+      internalID: 8710820880679117099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 348
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024ce59e5f1d1590800000000000000
+      internalID: -7701965296631004671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 348
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6fdca91fd171a40800000000000000
+      internalID: 5338768806792525513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 149
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a7f53bd6ae1b50800000000000000
+      internalID: 6565868767186231389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 149
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3767c8836b56134f0800000000000000
+      internalID: -850787021289130381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57dbb67758829160800000000000000
+      internalID: 7030831877514319706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c50ce4e855d7490800000000000000
+      internalID: -7746941714312438756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5651b80b5475270800000000000000
+      internalID: 8239130667847607739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f94a65cfa0d7d0800000000000000
+      internalID: -2895621297972578274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_24
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ede26311438bb0800000000000000
+      internalID: -4935029215147988788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_25
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca65b67436b4f80800000000000000
+      internalID: -8121288344637887409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_26
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2
+        width: 178
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8af064020800a60800000000000000
+      internalID: 7638245844123101429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 132
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edef7af7eb11d700800000000000000
+      internalID: 563262111552105952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 132
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a9243ebde9bb00800000000000000
+      internalID: 844967806283392564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36281831925e160800000000000000
+      internalID: 7054089555099673514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 132
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b075ba0adc51110800000000000000
+      internalID: 1231116163108768580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 95
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da77503471d7ce360800000000000000
+      internalID: 7200267443120732077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shovel Knight Treasure Trove - Dozedrake_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 95
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e517638751544d0800000000000000
+      internalID: -3151088758222135766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
