@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerControllerScript : MonoBehaviour
 {
     [SerializeField] private float moveSpeed;
     [SerializeField] private float jumpForce;
     [SerializeField] private float enemieHitForce;
+    [SerializeField] private float climbingVelocity;
     [SerializeField] private Transform groundCheck1, groundCheck2;
 
     private GameObject gameController;
@@ -14,7 +16,7 @@ public class PlayerControllerScript : MonoBehaviour
     private Rigidbody2D playerRb2D;
     private SpriteRenderer playerSprite;
     private float movement;
-    private bool dead, leftMove, stay, attacking, jumpAttacking, grounded, getHit;
+    private bool dead, leftMove, stay, attacking, jumpAttacking, grounded, getHit, climbingStairs;
     void Start()
     {
         gameController = GameObject.FindWithTag("GameController");
@@ -35,11 +37,41 @@ public class PlayerControllerScript : MonoBehaviour
     {
         if (!dead)
         {
-            HorizontalMovement();
-            JumpMovement();
-            AttackMovement();
+            if (climbingStairs)
+            {
+                IsClimbingStairs();
+            }
+            else
+            {
+                HorizontalMovement();
+                JumpMovement();
+                AttackMovement();
+            }
         }
     }
+
+    void IsClimbingStairs()
+    {
+        playerRb2D.velocity = new Vector2(0, 0);
+        playerRb2D.isKinematic = true;
+        playerAnimator.SetBool("Climbing", true);
+        if (Input.GetKey(KeyCode.W))
+        {
+            transform.position = new Vector2(transform.position.x, transform.position.y+(climbingVelocity*Time.deltaTime));
+        }
+        else if (Input.GetKey(KeyCode.S))
+        {
+            transform.position = new Vector2(transform.position.x, transform.position.y - (climbingVelocity * Time.deltaTime));
+        }
+
+        if (Physics2D.Linecast(transform.position, groundCheck1.position, 1 << LayerMask.NameToLayer("Ground"))
+            || Physics2D.Linecast(transform.position, groundCheck2.position, 1 << LayerMask.NameToLayer("Ground")))
+        {
+            climbingStairs = false;
+            playerRb2D.isKinematic = false;
+            playerAnimator.SetBool("Climbing", false);
+        }
+     }
 
     void HorizontalMovement()
     {
@@ -154,6 +186,25 @@ public class PlayerControllerScript : MonoBehaviour
     {
         dead = true;
         playerAnimator.SetTrigger("Dead");
+        PlayerPrefs.SetInt("goldPlayerDead", gameController.GetComponent<UIScript>().gold/2);
+        PlayerPrefs.SetFloat("posXPlayerDead", transform.position.x);
+        PlayerPrefs.SetFloat("posYPlayerDead", transform.position.y);
+        Invoke("RestartGame", 3);
+    }
+
+    void RestartGame()
+    {
+        SceneManager.LoadScene("GameScene");
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "JumpDeadCollider") PlayerDead();
+        
+        if (collision.gameObject.tag == "Stairs")
+        {
+            if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S)) climbingStairs = true;
+        }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -171,7 +222,19 @@ public class PlayerControllerScript : MonoBehaviour
         {
             playerRb2D.AddForce(new Vector2(0, enemieHitForce*1.5f));
         }
-        else if (collision.gameObject.tag == "gema0")
+
+        if (collision.gameObject.tag == "Slim" && !collision.gameObject.GetComponent<SlimScript>().dead)
+        {
+            playerRb2D.velocity = new Vector2(0, 0);
+            if (transform.position.x <= collision.transform.position.x) playerRb2D.AddForce(new Vector2(-enemieHitForce / 2, enemieHitForce));
+            else if (transform.position.x > collision.transform.position.x) playerRb2D.AddForce(new Vector2(enemieHitForce / 2, enemieHitForce));
+
+            getHit = true;
+            playerAnimator.SetBool("Hit", true);
+            GetComponent<PlayerHealthScript>().RestarVida(2);
+        }
+
+        if (collision.gameObject.tag == "gema0")
         {
             gameController.GetComponent<UIScript>().PlusGold(1);
             DeleteGemTaken(collision);
@@ -198,7 +261,7 @@ public class PlayerControllerScript : MonoBehaviour
         }
         else if (collision.gameObject.tag == "gema5")
         {
-            gameController.GetComponent<UIScript>().PlusGold(100);
+            gameController.GetComponent<UIScript>().PlusGold(200);
             DeleteGemTaken(collision);
         }
     }

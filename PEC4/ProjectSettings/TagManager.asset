@@ -17,6 +17,8 @@ TagManager:
   - gema5
   - SandBox1
   - SandBox2
+  - JumpDeadCollider
+  - Slim
   layers:
   - Default
   - TransparentFX

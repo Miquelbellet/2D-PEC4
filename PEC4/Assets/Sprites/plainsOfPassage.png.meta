@@ -296,6 +296,9 @@ TextureImporter:
   - first:
       213: -5994113535053262593
     second: plainsOfPassage_68
+  - first:
+      213: -6757978675083386470
+    second: plainsOfPassage_0
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -391,48 +394,6 @@ TextureImporter:
   spriteSheet:
     serializedVersion: 2
     sprites:
-    - serializedVersion: 2
-      name: plainsOfPassage_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 288
-        width: 400
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f60de2c7b4c1cb80800000000000000
-      internalID: -8376197538404038923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plainsOfPassage_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 272
-        width: 240
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5d3a7ef83fdd8270800000000000000
-      internalID: 8254499127920573789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: plainsOfPassage_2
       rect:
@@ -2244,9 +2205,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
+        y: 288
         width: 400
-        height: 16
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2256,27 +2217,6 @@ TextureImporter:
       bones: []
       spriteID: 304ae20dc3e0b2970800000000000000
       internalID: 8731087956941382659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plainsOfPassage_90
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 368
-        width: 400
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 315c8d3107deedb80800000000000000
-      internalID: -8367989991982709485
       vertices: []
       indices: 
       edges: []
@@ -2424,6 +2364,27 @@ TextureImporter:
       bones: []
       spriteID: ff01acf7f71a0dca0800000000000000
       internalID: -5994113535053262593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainsOfPassage_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916df74336d632a0800000000000000
+      internalID: -6757978675083386470
       vertices: []
       indices: 
       edges: []

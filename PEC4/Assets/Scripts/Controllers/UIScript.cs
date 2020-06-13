@@ -6,12 +6,14 @@ using UnityEngine.UI;
 
 public class UIScript : MonoBehaviour
 {
+    [HideInInspector] public int gold;
+
     [SerializeField] private TextMeshProUGUI goldTxt, itemsTxt;
     [SerializeField] private GameObject lifes;
     [SerializeField] private Sprite fullLife, midLife, noLife;
 
     private GameObject player;
-    private int initHeath, gold, items;
+    private int initHeath, items;
     void Start()
     {
         player = GameObject.FindWithTag("Player");

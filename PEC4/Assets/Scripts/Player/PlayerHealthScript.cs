@@ -23,7 +23,7 @@ public class PlayerHealthScript : MonoBehaviour
     public void RestarVida(int vidaResta)
     {
         health -= vidaResta;
-        if (health <= 0) PlayerDead();
+        if (health <= 0) GetComponent<PlayerControllerScript>().PlayerDead();
         uiScript.UpdateHealth(health);
     }
 
@@ -32,11 +32,5 @@ public class PlayerHealthScript : MonoBehaviour
         health += vidaSuma;
         if (health > initHealth) health = initHealth;
         uiScript.UpdateHealth(health);
-    }
-
-    void PlayerDead()
-    {
-        GetComponent<PlayerControllerScript>().PlayerDead();
-        Debug.Log("Player Dead");
     }
 }
