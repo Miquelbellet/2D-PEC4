@@ -64,6 +64,7 @@ public class BugScript : MonoBehaviour
             GameObject poof = Instantiate(poofPrefab, transform.position, Quaternion.Euler(0, 0, 0));
             Destroy(poof, 1);
             GameController.InvokeGoldType(Random.Range(0, 3), transform.position);
+            GameController.GetComponent<SoundEffectsScript>().EnemieDieSound();
             Destroy(gameObject);
         }
 

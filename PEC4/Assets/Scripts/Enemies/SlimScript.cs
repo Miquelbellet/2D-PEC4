@@ -55,6 +55,7 @@ public class SlimScript : MonoBehaviour
             slimRigidBody.bodyType = RigidbodyType2D.Kinematic;
             slimCollider.isTrigger = true;
             gameController.GetComponent<GameControllerScript>().InvokeGoldType(Random.Range(0, 3), transform.position);
+            gameController.GetComponent<SoundEffectsScript>().EnemieDieSound();
             Destroy(gameObject, 0.2f);
         }
     }

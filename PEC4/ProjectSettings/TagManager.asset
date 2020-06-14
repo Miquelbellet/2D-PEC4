@@ -19,6 +19,8 @@ TagManager:
   - SandBox2
   - JumpDeadCollider
   - Slim
+  - Boss
+  - BossWeapon
   layers:
   - Default
   - TransparentFX

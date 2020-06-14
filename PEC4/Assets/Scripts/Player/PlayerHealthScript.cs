@@ -32,5 +32,6 @@ public class PlayerHealthScript : MonoBehaviour
         health += vidaSuma;
         if (health > initHealth) health = initHealth;
         uiScript.UpdateHealth(health);
+        gameController.GetComponent<SoundEffectsScript>().FoodSound();
     }
 }

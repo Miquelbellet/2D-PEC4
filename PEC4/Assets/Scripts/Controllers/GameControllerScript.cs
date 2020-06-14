@@ -11,8 +11,7 @@ public class GameControllerScript : MonoBehaviour
     private GameObject player;
     private int checkpointIndex, goldPlayerDead;
     private float posXPlayerDead, posYPlayerDead;
-
-    bool followPlayer;
+    private bool followPlayer;
     void Start()
     {
         player = GameObject.FindWithTag("Player");
@@ -53,5 +52,6 @@ public class GameControllerScript : MonoBehaviour
     {
         checkpointIndex = index;
         PlayerPrefs.SetInt("checkpointIndex", checkpointIndex);
+        if(checkpointIndex != index) GetComponent<SoundEffectsScript>().CheckpointActivateSound();
     }
 }
